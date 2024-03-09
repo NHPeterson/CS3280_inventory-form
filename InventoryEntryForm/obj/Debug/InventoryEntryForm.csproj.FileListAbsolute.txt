@@ -1,0 +1,16 @@
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\bin\Debug\InventoryEntryForm.exe.config
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\bin\Debug\InventoryEntryForm.exe
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\bin\Debug\InventoryEntryForm.pdb
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\obj\Debug\InventoryEntryForm.csproj.AssemblyReference.cache
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\obj\Debug\InventoryEntryForm.Form1.resources
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\obj\Debug\InventoryEntryForm.Properties.Resources.resources
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\obj\Debug\InventoryEntryForm.csproj.GenerateResource.cache
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\obj\Debug\InventoryEntryForm.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\obj\Debug\InventoryEntryForm.exe
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\obj\Debug\InventoryEntryForm.pdb
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\bin\Debug\DataAccessLayer.dll
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\bin\Debug\DataAccessLayer.pdb
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\bin\Debug\DataAccessLayer.dll.config
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\obj\Debug\InventoryEntryForm.csproj.CopyComplete
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\obj\Debug\InventoryEntryForm.MainWindow.resources
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\InventoryEntryForm\obj\Debug\InventoryEntryForm.Companies.resources

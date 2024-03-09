@@ -1,0 +1,7 @@
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\peter\Documents\Computer Science\CS3280\M7\InventoryEntryForm\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
